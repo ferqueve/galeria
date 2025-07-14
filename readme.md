@@ -1,7 +1,9 @@
 # 🐱 Galería de Gatitos
 
 Este es un proyecto simple en HTML que muestra una galería de imágenes de gatitos utilizando imágenes alojadas en Unsplash.
-
+## 📦 Ejercicio
+Adapta el tamaño de las imágenes para que todas tengan el mismo tamaño y orden. 
+Utiliza selectores CSS para la tarea.
 ## 📄 Descripción
 
 La página consiste en:
@@ -29,9 +31,7 @@ Puedes abrir el archivo `index.html` en tu navegador para ver la galería en acc
 
 Todas las imágenes utilizadas provienen de [Unsplash](https://unsplash.com/), un sitio gratuito de fotografías de alta calidad.
 
-## 📦 Ejercicio
-Adapta el tamaño de las imágenes para que todas tengan el mismo tamaño y orden. 
-Utiliza selectores CSS para la tarea.
+
 
 
 
